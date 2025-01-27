@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-
 I am an **Aspiring Full-Stack Web Developer**, currently pursuing a **30-week full-time Web Development course** at **Masai School, Bengaluru**.  
 
 I am passionate about mastering the **MERN Stack** (MongoDB, Express, React, Node.js) and aspire to contribute to a professional environment where I can utilize my skills effectively while continuously growing and learning.  
@@ -29,7 +28,7 @@ I am passionate about mastering the **MERN Stack** (MongoDB, Express, React, Nod
 - 💬 **Ask me about:** HTML, CSS, JavaScript  
 - 📫 **How to reach me:**  
   - **Email:** avi7877489@gmail.com  
-  - **LinkedIn:** [https://www.linkedin.com/in/avijit-ghosh-208798204/](#)  
+  - **LinkedIn:** <a href="https://www.linkedin.com/in/avijit-ghosh-208798204/" target="_blank">Connect with me</a>  
 - 👨‍💻 **Pronouns:** He/His  
 
 ---
@@ -68,4 +67,5 @@ I am passionate about mastering the **MERN Stack** (MongoDB, Express, React, Nod
 Feel free to reach out for collaboration, queries, or just to connect!  
 
 - **Email:** avi7877489@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/avijit-ghosh-208798204/](#)  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/avijit-ghosh-208798204/" target="_blank">Connect with me</a>  
+
