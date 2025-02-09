@@ -34,7 +34,7 @@ I am passionate about mastering the **MERN Stack** (MongoDB, Express, React, Nod
 ---
 
 ## 🛠️ Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,node,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,Node,express,mongodb)](https://skillicons.dev)
 ### Frontend  
 - **HTML5**  
 - **CSS3**  
