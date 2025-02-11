@@ -27,7 +27,7 @@ I am passionate about mastering the **MERN Stack** (MongoDB, Express, React, Nod
    <br>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
    <br>
-  <img src="https://camo.githubusercontent.com/c16706a4d3031e51735bcbfe51d4fa622e76dfadb1fb8bd00d88c682d2334a80/68747470733a2f2f6769746875622d636f6e7472696275746f722d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c6176616e79612d526170656c6c69266c696d69743d35267468656d653d6461726b26636f6d62696e655f616c6c5f796561726c795f636f6e747269627574696f6e733d74727565" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avi7877489&show_icons=true&theme=dark" alt="GitHub Stats">
   </div>
 
 ---
