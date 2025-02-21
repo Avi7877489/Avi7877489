@@ -48,7 +48,7 @@
 
 ## 📬 Let's Connect
 💌 **Email**: [avi7877489@gmail.com](mailto:avi7877489@gmail.com)  
-🔗 **LinkedIn**: [Connect with me](#)  
+🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/avijit-ghosh-208798204/)  
 
 ---
 
