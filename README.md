@@ -17,8 +17,10 @@
 ## 🛠️ Tech Stack 
 ### 🚀 Frontend 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" alt="Frontend Tech" width="400px"> 
+
 ### 🏗 Backend 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Tech" width="400px"> 
+
 ### 🔧 Tools & Platforms 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" width="400px">
 ---
