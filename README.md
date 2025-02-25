@@ -15,25 +15,27 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex-basis: 60%;">
-    ## 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
-    ### 🚀 Frontend
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" alt="Frontend Tech" width="100%">
+<div style="float: left; width: 60%;">
+  ### 🚀 Frontend
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux" alt="Frontend Tech" width="100%">
 
-    ### 🏗 Backend
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Tech" width="100%">
+  ### 🏗 Backend
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend Tech" width="100%">
 
-    ### 🔧 Tools & Platforms
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" width="100%">
-  </div>
-  <div style="flex-basis: 35%; text-align: right;">
-    <p align="right">
-      <img src="https://camo.githubusercontent.com/e42ded7a7a9432d2eaf75fa68f4b7a310b2437a908800021bbb54aabf0675641/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646e46704f476c73616d31354e4868754f584a33626e6c784d3245314e444a364d4464325a586c745a6d4e6b5a6e7078596a646964795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4c3152317476493973766b495777705659722f67697068792e676966" alt="Cool GIF" width="60%">
-    </p>
-  </div>
+  ### 🔧 Tools & Platforms
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" width="100%">
 </div>
+
+<div style="float: right; width: 35%; text-align: right;">
+  <p align="right">
+    <img src="https://camo.githubusercontent.com/e42ded7a7a9432d2eaf75fa68f4b7a310b2437a908800021bbb54aabf0675641/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578646e46704f476c73616d31354e4868754f584a33626e6c784d3245314e444a364d4464325a586c745a6d4e6b5a6e7078596a646964795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4c3152317476493973766b495777705659722f67697068792e676966" alt="Cool GIF" width="60%">
+  </p>
+</div>
+
+<div style="clear: both;"></div>
+
 
 ---
 
