@@ -7,7 +7,7 @@
 
 ## 🌟 About Me  
 
-🚀 I am an **Aspiring Full-Stack Web Developer**, currently pursuing a **30-week full-time Web Development course** at **Masai School, Bengaluru**.  
+🚀 I am an ** Full-Stack  Developer**, currently pursuing a **30-week full-time Web Development course** at **Masai School, Bengaluru**.  
 
 💡 Passionate about **MERN Stack** (MongoDB, Express, React, Node.js) and always eager to learn and grow in a dynamic environment.  
 
